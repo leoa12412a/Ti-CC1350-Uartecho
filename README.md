@@ -73,9 +73,9 @@ int main(void)
 <br>
 main_tirtos.c完整程式碼<br>
 <br>
-<detail>
-    <summary>點擊展開</summary>
-    <pre>
-        123
-    </pre>
-</detail>
+
+<details> <summary>View Code</summary>
+
+code ...
+
+</details>
