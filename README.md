@@ -68,3 +68,12 @@ int main(void)
     return (0);
 }
 ```
+<br>
+main_tirtos.c完整程式碼<br>
+<br>
+<detail>
+    <summary>點擊展開</summary>
+    <pre>
+        123
+    </pre>
+</detail>
