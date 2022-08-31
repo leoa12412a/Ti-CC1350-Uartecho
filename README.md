@@ -30,6 +30,7 @@ extern void *mainThread(void *arg0);  //宣告一個mainThread的func，之後�
 <a href="https://shengyu7697.github.io/cpp-pthread_attr_setstacksize/" target="_blank">pthread_attr_setstacksize參數說明</a><br/>
 <a href="https://www.796t.com/content/1549363165.html" target="_blank">pthread_attr_setdetachstate參數說明</a><br/>
 <br/>
+
 ```
 /*
  *  ======== main ========
