@@ -68,6 +68,7 @@ int main(void)
     return (0);
 }
 ```
+
 <br>
 main_tirtos.c完整程式碼<br>
 <br>
