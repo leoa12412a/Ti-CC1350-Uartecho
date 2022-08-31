@@ -4,7 +4,7 @@ CC1350 Uart介面程式說明，以下範例都是根據Ti的Resource Explorer<b
 <br/>
 首先最先執行的會是main()這個func，Ti driver裡的Ti-RTOS都會由main_tirtos.c開始執行並開啟一個叫mainThread的Pthread<br/>
 <br/>
-首先先載入所需要用到的函式庫<br/>
+首先先載入所需要用到的函式庫<br/><br/>
 
 ```
 #include <stdint.h>   //載入基本函式庫stdint.h
@@ -29,7 +29,7 @@ extern void *mainThread(void *arg0);  //宣告一個mainThread的func，之後�
 <a href="https://blog.csdn.net/mijichui2153/article/details/82855925" target="_blank">pthread_create參數說明</a><br/>
 <a href="https://shengyu7697.github.io/cpp-pthread_attr_setstacksize/" target="_blank">pthread_attr_setstacksize參數說明</a><br/>
 <a href="https://www.796t.com/content/1549363165.html" target="_blank">pthread_attr_setdetachstate參數說明</a><br/>
-
+<br/>
 ```
 /*
  *  ======== main ========
